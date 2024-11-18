@@ -2,7 +2,7 @@
 //  Saved.swift
 //  Memo
 //
-//  Created by Logan Makris on 11/18/24.
+//  Created by Suno on 11/18/24.
 //
 
 import SwiftUI
